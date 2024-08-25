@@ -2,12 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='multicli',
-    version='1.0',
-    py_modules=['multicli'],
-    packages=find_packages(include=['tools']),
+    version='1.1',
+    packages=find_packages(),
     install_requires=[
         'argparse',
         'python-dotenv',
+        'requests',
+        'psutil',
+        'schedule'
     ],
     entry_points={
         'console_scripts': [
