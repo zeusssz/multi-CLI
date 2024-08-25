@@ -131,11 +131,3 @@ pip install -e .
 ## Contact
 
 For any questions or issues, please contact [@roboxer_](https://discord.com/users/roboxer_).
-
-### Summary
-
-1. **Installation**: Instructions for downloading and installing from the release page.
-2. **Usage**: Detailed examples of how to use each command.
-3. **Development**: Instructions for setting up a development environment.
-4. **License**: Licensing information.
-5. **Contact**: Contact information for support.
