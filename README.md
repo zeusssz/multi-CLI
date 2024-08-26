@@ -18,14 +18,14 @@ MultiCLI is a versatile command-line interface (CLI) tool designed to perform va
 ## Installation
 
 To install MultiCLI, you can download the wheel file from the [releases](https://github.com/zeusssz/multi-CLI/releases) page and install it using pip.
-(Or compile the binary directly by using the source code, and running `python setup.py bdist_wheel`)
+(Or compile the binary directly by using the source code, and running `python -m build`)
 
 1. **Download the wheel file** from the [Releases page](https://github.com/zeusssz/multi-CLI/releases/latest/download/multicli-1.0-py3-none-any.whl).
 
 2. **Install the wheel file** using pip:
 
    ```bash
-   pip install path/to/multicli-1.0-py3-none-any.whl
+   pip install path/to/multicli-1.0.1-py3-none-any.whl
    ```
 
 ## Usage
