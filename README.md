@@ -106,7 +106,7 @@ Setup development environment with dependencies and environment variables.
 multicli setup --requirements-file path/to/requirements.txt [--env-vars-file path/to/env_vars_file]
 ```
 
-- `--requirements-file`: Path to the `requirements.txt` file.
+- `--requirements-file`: Path to **your** `requirements.txt` file.
 - `--env-vars-file` (optional): Path to the environment variables file (key=value format).
 
 ### Convert Data
