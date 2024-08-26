@@ -1,6 +1,9 @@
 # 🖥 📁 MultiCLI
 
 MultiCLI is a versatile command-line interface (CLI) tool designed to perform various functions. This project includes multiple tools for tasks such as log analysis, file renaming, API data fetching, system monitoring, backup utilities, environment setup, and data conversion.
+<br>
+![image](https://github.com/user-attachments/assets/7187bd7e-5c22-404e-b737-5f62214325f8)
+
 
 ## Features
 
