@@ -1,0 +1,5 @@
+argparse
+psutil
+requests
+schedule
+python-dotenv
