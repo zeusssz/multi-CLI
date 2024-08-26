@@ -124,7 +124,7 @@ If you wish to contribute or modify MultiCLI, clone the repository and install d
 
 ```bash
 git clone https://github.com/zeusssz/multi-CLI.git
-cd yourrepo
+cd multi-CLI
 pip install -e .
 ```
 
