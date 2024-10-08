@@ -1,7 +1,7 @@
 import argparse
 import requests
 import json
-
+# TODO : FIX
 def fetch_data(endpoint, params=None, method='GET', data=None, auth=None, pretty=False):
     if method == 'POST':
         response = requests.post(endpoint, params=params, json=data, auth=auth)
