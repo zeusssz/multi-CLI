@@ -4,7 +4,6 @@ MultiCLI is a versatile command-line interface (CLI) tool designed to perform va
 <br>
 ![image](https://github.com/user-attachments/assets/7187bd7e-5c22-404e-b737-5f62214325f8)
 
-
 ## Features
 
 - **Log Analyzer**: Analyze and search through log files.
